@@ -1,4 +1,4 @@
-<p align="center">
+<p align="center" style="background-color: gray">
   <img src="./assets/colos_logo.png" alt="Colos logo" />
 </p>
 
