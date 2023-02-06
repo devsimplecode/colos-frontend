@@ -1,7 +1,4 @@
-<p align="center" style="background-color: gray">
-  <img src="./assets/colos_logo.png" alt="Colos logo" />
-</p>
-
+# IFC COLOS
 ## About app
 
 COLOS is an application for your shipments tracking. There are different roles in app such as a dispatch operator, regular user, and project client. The functionality for each role has been limited or expanded depending on the role. Each shipment can be tracked on a map with an accurate location calculation and movement history
